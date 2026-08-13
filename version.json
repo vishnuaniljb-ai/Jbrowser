@@ -1,0 +1,6 @@
+{
+  "version": "3.6.0",
+  "versionCode": 62,
+  "releaseNotes": "🚀 JBrowser v3.6.0 Official Release\n\n• Camera QR Code Scanner: Scan QR codes directly with your camera to open links instantly\n• Save Pages Offline / Reading List: Save full web pages to read anytime without internet connection\n• Find-in-Page Match Counter: Shows exact 'X of Y' search result counts\n• Inline History Search: Instantly filter browsing history with search bar\n• Bookmark Folders: Organize bookmarks into customizable folders and categories\n• Selection-Based Text Translation: Highlight text on any page for 1-tap translation\n• Advanced Free Video Downloader with per-video & webpage media scraper\n• Free Fast Privacy VPN & AES-256 Vault Encryption\n• 100% Safe & Private (Zero Data Collection)",
+  "apkUrl": "https://github.com/vishnuaniljb-ai/Jbrowser/releases/download/v3.6.0/JBrowser-v3.6.0.apk"
+}

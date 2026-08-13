@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "title": "Entertainment",
+      "icon": "film-outline",
+      "links": [
+        { "title": "YouTube", "url": "https://youtube.com" },
+        { "title": "Hotstar", "url": "https://www.hotstar.com/in" },
+        { "title": "Sony LIV", "url": "https://www.sonyliv.com" }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Education",
+      "icon": "school-outline",
+      "links": [
+        { "title": "MCQ UPSC", "url": "https://mcqupsc.in" },
+        { "title": "Law Page", "url": "https://lawpage.in" },
+        { "title": "NPTEL", "url": "https://nptel.ac.in" }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "News",
+      "icon": "newspaper-outline",
+      "links": [
+        { "title": "The Hindu", "url": "https://www.thehindu.com" },
+        { "title": "Indian Express", "url": "https://indianexpress.com" },
+        { "title": "NDTV", "url": "https://www.ndtv.com" }
+      ]
+    }
+  ]
+}
