@@ -1,1 +1,1 @@
-# JBrowser Public Assets and Releases
+# JBrowser Public Release Assets
